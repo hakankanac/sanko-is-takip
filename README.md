@@ -1,1 +1,1 @@
-# sanko-is-takip
+hakankanac/sanko-is-takip
